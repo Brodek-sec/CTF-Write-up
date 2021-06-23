@@ -73,5 +73,3 @@
 <img src="https://github.com/Brodek-sec/CTF-Write-up/blob/main/Biohazard%20CTF/photos/65.png"></img><br>
 <img src="https://github.com/Brodek-sec/CTF-Write-up/blob/main/Biohazard%20CTF/photos/66.png"></img><br>
 <img src="https://github.com/Brodek-sec/CTF-Write-up/blob/main/Biohazard%20CTF/photos/67.png"></img><br>
-<img src="https://github.com/Brodek-sec/CTF-Write-up/blob/main/Biohazard%20CTF/photos/68.png"></img><br>
-<img src="https://github.com/Brodek-sec/CTF-Write-up/blob/main/Biohazard%20CTF/photos/69.png"></img><br>
