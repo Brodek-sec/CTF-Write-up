@@ -4,6 +4,7 @@
   <li>Difficulty: Medium</li>
   <li>Location: <a href="https://tryhackme.com/room/biohazard">TryHackMe</a>
 </ul>
+Nmap scan for first question:
 <img src="https://github.com/Brodek-sec/CTF-Write-up/blob/main/Biohazard%20CTF/photos/0.png"></img><br>
 <img src="https://github.com/Brodek-sec/CTF-Write-up/blob/main/Biohazard%20CTF/photos/1.png"></img><br>
 <img src="https://github.com/Brodek-sec/CTF-Write-up/blob/main/Biohazard%20CTF/photos/2.png"></img><br>
